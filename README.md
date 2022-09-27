@@ -1,4 +1,4 @@
-# Pong-do-Rodrigo
+# Pong do Rodrigo
 
 ## Pong
 
